@@ -13,6 +13,7 @@ _(01.2016 - aktuell)_
 - zusätzlich Begleitung von statistischen Auswertungen zum aktuellen Entwicklungsstand des Kundenservicecenters 
 - sowie Mitwirkung in Projektteams bezüglich Prozessoptimierung für das Tagesgeschäft
 - Hospitation: Im stetigen Austausch mit dem Datenqualitätsmanagement (DQM) über aktuelle Themen und Tools
+
 ### Volt Europa (Ehrenamt)
 _(04.2019 - aktuell)_
 - Aufgabenschwerpunkt im hessischen Data-Analytics Team
@@ -22,12 +23,15 @@ _(04.2019 - aktuell)_
 ### Fachhochschule für Oekonomie & Management (FOM)
 _(09.2019 – aktuell)_
 Wirtschaftsinformatik (B.Sc)
+
 ### Frankfurt School of Finance & Management
 _(07.2016 – 09.2019)_
 Bankfachwirtin
+
 ### Bethmannschule & Frankfurter Sparkasse
 _(08.2013 – 01.2016)_
 Ausbildung zur Bankkauffrau (IHK)
+
 # Theodor-Heuss-Schule 
 _(08.2009 – 07.2013)_
 Mittlere Reife 
