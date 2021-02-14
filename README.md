@@ -6,7 +6,7 @@ _Bankkauffrau und Studentin der Wirtschaftsinformatik, mit Freude an technischen
 #### [Mail](lara-goertz@gmx.de) | [LinkedIn](https://www.linkedin.com/in/lara-goertz-6b0924163/) | [GitHub](https://github.com/laragoertz)
 
 
-## *Berufserfahrung*
+## **Berufserfahrung**
 
 ### Frankfurter Sparkasse (Mediale Beraterin)
 _(01.2016 - aktuell)_
