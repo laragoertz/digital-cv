@@ -43,6 +43,7 @@ Mittlere Reife
 - MySQL Workbench
 - Terminal (OSX)
 - Jupyter Notebook
+- GitHub
 - OSPlus
 - Lotus Notes
 - Microsoft Office Programme
