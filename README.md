@@ -21,12 +21,12 @@ _(04.2019 - aktuell)_
 
 ## **Bildungsweg**
 
-### Fachhochschule für Oekonomie & Management (FOM) _(09.2019 – aktuell)_
-Wirtschaftsinformatik (B.Sc)
-### Frankfurt School of Finance & Management _(07.2016 – 09.2019)_
-Bankfachwirtin
-### Bethmannschule & Frankfurter Sparkasse _(08.2013 – 01.2016)_
-Ausbildung zur Bankkauffrau (IHK)
+### Fachhochschule für Oekonomie & Management (FOM) 
+Wirtschaftsinformatik (B.Sc) - _(09.2019 – aktuell)_
+### Frankfurt School of Finance & Management 
+Bankfachwirtin - _(07.2016 – 09.2019)_
+### Bethmannschule & Frankfurter Sparkasse 
+Ausbildung zur Bankkauffrau (IHK) - _(08.2013 – 01.2016)_
 
 ## **Fähigkeiten**
 - sehr gute Teamfähigkeit
