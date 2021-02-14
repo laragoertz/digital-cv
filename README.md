@@ -1,4 +1,4 @@
-# Lara Goertz 
+![Me](https://media-exp1.licdn.com/dms/image/C5603AQGy1Xh6euWUAg/profile-displayphoto-shrink_200_200/0/1611079889418?e=1617235200&v=beta&t=dbdHRLP99cBKtQkelOUarhAFce2NxmAsuSHb0kKVk44) # Lara Goertz 
 
 _Bankkauffrau und Studentin der Wirtschaftsinformatik, mit Freude an technischen Themen. Ehrenamtlich bei einer politischen Bewegung engagiert. Hierbei wurden erste Erfahrungen im Bereich Data Analytics und teamübergreifender, agilen Zusammenarbeit gesammelt._ 
 
