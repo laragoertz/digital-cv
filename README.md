@@ -30,7 +30,7 @@ Bankfachwirtin
 ### Bethmannschule & Frankfurter Sparkasse
 _(08.2013 – 01.2016)_
 Ausbildung zur Bankkauffrau (IHK)
-# Theodor-Heuss-Schule 
+### Theodor-Heuss-Schule 
 _(08.2009 – 07.2013)_
 Mittlere Reife 
 
