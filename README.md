@@ -19,7 +19,7 @@ _(04.2019 - aktuell)_
 - Aufgabenschwerpunkt im hessischen Data-Analytics Team
 - Kandidierende für die Kommunalwahl 2021 in Frankfurt
 
-## *Bildungsweg*
+## **Bildungsweg**
 
 ### Fachhochschule für Oekonomie & Management (FOM) _(09.2019 – aktuell)_
 Wirtschaftsinformatik (B.Sc)
@@ -30,7 +30,7 @@ Ausbildung zur Bankkauffrau (IHK)
 ### Theodor-Heuss-Schule _(08.2009 – 07.2013)_
 Mittlere Reife 
 
-## *Fähigkeiten*
+## **Fähigkeiten**
 - sehr gute Selbstorganisation
 - sehr gute Teamfähigkeit
 - sehr hohe Lernbereitschaft
@@ -38,7 +38,7 @@ Mittlere Reife
 - Grundkenntnisse in prozeduraler Programmierung _(C)_
 - Grundkenntnisse / derzeitige Weiterbildung über [Udemy](https://www.udemy.com/course/complete-python-bootcamp/) _(Python)_
 
-## *Tools*
+## **Tools**
 - Visual Studio Code (VSC)
 - MySQL Workbench
 - Terminal (OSX)
@@ -48,12 +48,12 @@ Mittlere Reife
 - Microsoft Office Programme
 - Google Apps
 
-## *Sprachen*
+## **Sprachen**
 - Deutsch _(Muttersprache)_
 - Polnisch _(Fließend)_
 - Englisch _(Schulkenntnisse)_
 
-## *Zusätzliches*
+## **Zusätzliches**
 - Führerschein Klasse B
 - Seminararbeit im Bereich IT-Infrastruktur _(Container as a Service (CaaS) über eine hybride Cloud mit Docker am Bsp. eines mittelständigen       Finanzdienstleistungsunternehmens)_
 - Seminararbeit im Bereich Datenbankmanagement _(Potentiale der Data Science zur Optimierung der Vertriebsstrategie in der Finanzdienstleistungsbranche)_
