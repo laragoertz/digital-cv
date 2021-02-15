@@ -1,7 +1,7 @@
 ![Me](https://media-exp1.licdn.com/dms/image/C5603AQGy1Xh6euWUAg/profile-displayphoto-shrink_200_200/0/1611079889418?e=1617235200&v=beta&t=dbdHRLP99cBKtQkelOUarhAFce2NxmAsuSHb0kKVk44)  
 # Lara Goertz 
 
-_Bankkauffrau und Studentin der Wirtschaftsinformatik, mit Freude an technischen Themen. Ehrenamtlich bei einer politischen Bewegung engagiert. Hierbei wurden erste Erfahrungen im Bereich Data Analytics und teamübergreifender, agiler Zusammenarbeit gesammelt._ 
+_Bankkauffrau und Studentin der Wirtschaftsinformatik mit Freude an technischen Themen. Ehrenamtlich bei einer politischen Bewegung engagiert. Hierbei wurden erste Erfahrungen im Bereich Data Analytics und teamübergreifender, agiler Zusammenarbeit gesammelt._ 
 
 #### [Mail](lara-goertz@gmx.de) _(lara-goertz@gmx.de)_ | [LinkedIn](https://www.linkedin.com/in/lara-goertz-6b0924163/) _(Lara Goertz)_ | [GitHub](https://github.com/laragoertz) _(laragoertz)_
 
@@ -11,11 +11,11 @@ _Bankkauffrau und Studentin der Wirtschaftsinformatik, mit Freude an technischen
 _(01.2016 - aktuell)_
 - Aufgabenschwerpunkt liegt in der Serviceberatung für Privatkunden inkl. Kreditentscheidungen über mediale Vertriebskanäle.
 - Besonders zu Beginn meiner Tätigkeit in der Medialen Beratung sammelte ich erste Erfahrungen in Projektarbeiten bezüglich Prozessoptimierung für das Tagesgeschäft sowie im Aufbaukonzept eines Kundenservicecenters gesammelt.
-- Zusätzlich habe ich durch das erheben und vergleichen verschiedener Daten bei statistischen Auswertungen zum aktuellen Entwicklungsstand des Kundenservicecenters mitgewirkt. Hierbei wurden Erfahrungen in Excel vertieft. 
+- Zusätzlich habe ich durch das Erheben und Vergleichen verschiedener Daten bei statistischen Auswertungen zum aktuellen Entwicklungsstand des Kundenservicecenters mitgewirkt. Hierbei wurden Erfahrungen in Excel vertieft. 
 - Hospitation: Damit das theoretische Wissen aus dem Bereich Datenbankmanagement mit praktischen Aufgaben untermauert wird, stehe ich im stetigen Austausch mit dem Datenqualitätsmanagement (DQM) über aktuelle Themen und Tools. Hauptsächlich handelt es sich über die Erhaltung und Erhöhung der Datenqualität auf Gesamthausebene.  
 
 ## **Fähigkeiten**
-- Die hohe Lernbereitschaft spiegelt sich besonders über das Interesse an technischen Themen wieder. Für ein tiefergehendes Wissen in Python, nehme ich derzeit an einem Kurs über [Udemy](https://www.udemy.com/course/complete-python-bootcamp/) teil. Mit dessen Hilfe ich bereits erste Codes, wie einen Würfel erstellt habe. Hierbei lerne ich zudem das Arbeiten mit Jupyter Notebook. 
+- Die hohe Lernbereitschaft spiegelt sich im Interesse an technischen Themen wider. Für ein tiefergehendes Wissen in Python nehme ich derzeit an einem Kurs über [Udemy](https://www.udemy.com/course/complete-python-bootcamp/) teil. Mit dessen Hilfe erstellte ich bereits erste Codes wie einen Würfel. Hierbei lerne ich zudem das Arbeiten mit Jupyter Notebook. 
 - Eine gute Selbstorganisation hilft mir die Balance zwischen Beruf, Studium, Ehrenamt und Freizeit zu finden.
 - Erste Erfahrungen im Datenbankmanagement mit SQL und MongoDB sammle ich bei meiner Tätigkeit im Ehrenamt. Zudem kommen erweiterte Fähigkeiten mit Excel hinzu.
 - Nachdem ich die Grundkenntnisse in prozeduraler Programmierung _(C)_ erlernt habe, blieb ich mit weiteren Programmierübungen bei dieser Sprache.
