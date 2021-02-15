@@ -21,7 +21,7 @@ _(04.2019 - aktuell)_
 - Kandidierende für die Kommunalwahl 2021 in Frankfurt
 
 ## **Fähigkeiten**
-- Die hohe Lernbereitschaft spiegelt sich besonders über das Interesse an technischen Themen wieder. Für ein tiefergehendes Wissen in Python, nehme ich derzeit an einem Kurs über [Udemy](https://www.udemy.com/course/complete-python-bootcamp/) teil. Hierbei lerne ich zudem das Arbeiten mit Jupyter Notebook. 
+- Die hohe Lernbereitschaft spiegelt sich besonders über das Interesse an technischen Themen wieder. Für ein tiefergehendes Wissen in Python, nehme ich derzeit an einem Kurs über [Udemy](https://www.udemy.com/course/complete-python-bootcamp/) teil. Mit dessen Hilfe ich bereits erste Codes, wie einen Würfel erstellt habe. Hierbei lerne ich zudem das Arbeiten mit Jupyter Notebook. 
 - Eine gute Selbstorganisation hilft mir die Balance zwischen Beruf, Studium, Ehrenamt und Freizeit zu finden.
 - Erste Erfahrungen im Datenbankmanagement mit SQL und MongoDB sammle ich bei meiner Tätigkeit im Ehrenamt. Zudem kommen erweiterte Fähigkeiten mit Excel hinzu.
 - Nachdem ich die Grundkenntnisse in prozeduraler Programmierung _(C)_ erlernt habe, blieb ich mit weiteren Programmierübungen bei dieser Sprache.
