@@ -14,12 +14,6 @@ _(01.2016 - aktuell)_
 - Zusätzlich habe ich durch das erheben und vergleichen verschiedener Daten bei statistischen Auswertungen zum aktuellen Entwicklungsstand des Kundenservicecenters mitgewirkt. Hierbei wurden Erfahrungen in Excel vertieft. 
 - Hospitation: Damit das theoretische Wissen aus dem Bereich Datenbankmanagement mit praktischen Aufgaben untermauert wird, stehe ich im stetigen Austausch mit dem Datenqualitätsmanagement (DQM) über aktuelle Themen und Tools. Hauptsächlich handelt es sich über die Erhaltung und Erhöhung der Datenqualität auf Gesamthausebene.  
 
-## **Ehrenamt**
-### Volt Europa
-_(04.2019 - aktuell)_
-- Im hessischen Data-Analytics Team offene Daten aus den Kommunen zusammengetragen, verglichen und hierauf basierende Empfehlungen für den Wahlkampf ausgesprochen. 
-- Kandidierende für die Kommunalwahl 2021 in Frankfurt
-
 ## **Fähigkeiten**
 - Die hohe Lernbereitschaft spiegelt sich besonders über das Interesse an technischen Themen wieder. Für ein tiefergehendes Wissen in Python, nehme ich derzeit an einem Kurs über [Udemy](https://www.udemy.com/course/complete-python-bootcamp/) teil. Mit dessen Hilfe ich bereits erste Codes, wie einen Würfel erstellt habe. Hierbei lerne ich zudem das Arbeiten mit Jupyter Notebook. 
 - Eine gute Selbstorganisation hilft mir die Balance zwischen Beruf, Studium, Ehrenamt und Freizeit zu finden.
@@ -36,6 +30,12 @@ _(04.2019 - aktuell)_
 - **Lotus Notes** diente als E-Mail und Kalender-Tool _(durch Outlook ersetzt worden)_.
 - **MS-Programme** _(Word, Powerpoint, Excel, OneNote, Teams, Outlook)_
 - **Google Apps** werden vorwiegend für das Zusammenarbeiten und Organisation im Ehrenamt genutzt. 
+
+## **Ehrenamt**
+### Volt Europa
+_(04.2019 - aktuell)_
+- Im hessischen Data-Analytics Team offene Daten aus den Kommunen zusammengetragen, verglichen und hierauf basierende Empfehlungen für den Wahlkampf ausgesprochen. 
+- Kandidierende für die Kommunalwahl 2021 in Frankfurt
 
 ## **Bildungsweg**
 ### Fachhochschule für Oekonomie & Management (FOM) 
