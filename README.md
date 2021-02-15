@@ -3,14 +3,14 @@
 
 _Bankkauffrau und Studentin der Wirtschaftsinformatik, mit Freude an technischen Themen. Ehrenamtlich bei einer politischen Bewegung engagiert. Hierbei wurden erste Erfahrungen im Bereich Data Analytics und teamübergreifender, agiler Zusammenarbeit gesammelt._ 
 
-#### [Mail](lara-goertz@gmx.de)_(lara-goertz@gmx.de)_ | [LinkedIn](https://www.linkedin.com/in/lara-goertz-6b0924163/)_(Lara Goertz)_ | [GitHub](https://github.com/laragoertz)_(laragoertz)_
+#### [Mail](lara-goertz@gmx.de) _(lara-goertz@gmx.de)_ | [LinkedIn](https://www.linkedin.com/in/lara-goertz-6b0924163/) _(Lara Goertz)_ | [GitHub](https://github.com/laragoertz) _(laragoertz)_
 
 
 ## **Berufserfahrung**
 ### Frankfurter Sparkasse (Mediale Beraterin)
 _(01.2016 - aktuell)_
 - Aufgabenschwerpunkt liegt in der Serviceberatung für Privatkunden inkl. Kreditentscheidungen über mediale Vertriebskanäle.
-- Besonders zu Beginn meiner Tätigkeit in der Medialen Beratung wurden erste Erfahrungen in Projektarbeiten bezüglich Prozessoptimierung für das Tagesgeschäft sowie im Aufbaukonzept eines Kundenservicecenters gesammelt.
+- Besonders zu Beginn meiner Tätigkeit in der Medialen Beratung sammelte ich erste Erfahrungen in Projektarbeiten bezüglich Prozessoptimierung für das Tagesgeschäft sowie im Aufbaukonzept eines Kundenservicecenters gesammelt.
 - Zusätzlich habe ich durch das erheben und vergleichen verschiedener Daten bei statistischen Auswertungen zum aktuellen Entwicklungsstand des Kundenservicecenters mitgewirkt. Hierbei wurden Erfahrungen in Excel vertieft. 
 - Hospitation: Damit das theoretische Wissen aus dem Bereich Datenbankmanagement mit praktischen Aufgaben untermauert wird, stehe ich im stetigen Austausch mit dem Datenqualitätsmanagement (DQM) über aktuelle Themen und Tools. Hauptsächlich handelt es sich über die Erhaltung und Erhöhung der Datenqualität auf Gesamthausebene.  
 
